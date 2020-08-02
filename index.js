@@ -1,3 +1,3 @@
-const { default: DKRHexLoader } = require("./DKRHexLoader");
+import DKRHexLoader from './DKRHexLoader'
 
-module.export.DKRLoader = DKRHexLoader;
+export {DKRHexLoader}
