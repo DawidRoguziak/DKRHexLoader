@@ -2,7 +2,7 @@
   "name": "dkrhexloader",
   "version": "1.0.0",
   "description": "simply hex loader for websites",
-  "main": "DKRHexLoader.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,10 +18,11 @@
     "js",
     "javascript"
   ],
-  "author": "Dawid Kacper Roguziak",
+  "author": "nefrir",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/DawidRoguziak/DKRHexLoader/issues"
   },
-  "homepage": "https://github.com/DawidRoguziak/DKRHexLoader#readme"
+  "homepage": "https://github.com/DawidRoguziak/DKRHexLoader#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }

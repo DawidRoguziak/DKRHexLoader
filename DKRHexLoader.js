@@ -62,3 +62,5 @@ class DKRHexLoader {
     }
     
 }
+
+export default DKRHexLoader;
