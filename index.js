@@ -1,5 +1,3 @@
-function DKRLoader(options) {
-     return new DKRHexLoader(options);
-}
+const { default: DKRHexLoader } = require("./DKRHexLoader");
 
-module.export.DKRLoader = DKRLoader(options);
+module.export.DKRLoader = DKRHexLoader;
