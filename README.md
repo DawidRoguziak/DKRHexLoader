@@ -17,15 +17,15 @@ loader.stopLoader()
 ```
 
 # Params
-```text
+```js
 
 new DKRHexLoader(
-x,  canvas position  
-y,  canvas position 
-size, canvas size 
-speed, animation speed (default 100)
-maskStyle, styles for backgraund (default 'background: black;opacity: 0.4;filter: blur(8px);')
-color fill color for hex (default '#fff')
+x,  //canvas position  
+y,  //canvas position 
+size, //canvas size 
+speed, //animation speed (default 100)
+maskStyle, //styles for backgraund (default 'background: black;opacity: 0.4;filter: blur(8px);')
+color //fill color for hex (default '#fff')
 );
 
 ```
