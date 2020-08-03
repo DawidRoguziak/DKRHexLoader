@@ -1,5 +1,5 @@
 # DKRHexLoader
 Simply script to add hex loader to page
 
-#Install
+# Install
 npm i dkrhexloader
