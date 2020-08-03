@@ -11,7 +11,7 @@ import {DKRHexLoader} from 'dkrhexloader';
 let loader = new DKRHexLoader(300,300, 200);
 loader.startLoader();
 ...
-loader.stopLoader()
+loader.stopLoader();
 
 
 ```
