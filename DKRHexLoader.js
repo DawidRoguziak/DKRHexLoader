@@ -1,3 +1,5 @@
+import Triangle from "./triangle";
+
 class DKRHexLoader {
     constructor(x , y, size, speed = 100, maskStyle = 'background: black;opacity: 0.4;filter: blur(8px);' ,color = '#fff') {
         this.size = size;
@@ -62,3 +64,5 @@ class DKRHexLoader {
     }
     
 }
+
+export default DKRHexLoader;

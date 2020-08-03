@@ -62,3 +62,5 @@ class Triangle {
     this.draw();
   }
 }
+
+export  default Triangle
